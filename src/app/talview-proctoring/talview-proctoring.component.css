@@ -1,0 +1,26 @@
+.fields {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%; 
+  /* color: white; */
+  /* padding: 15px */
+}
+
+.container {
+  margin-left: 20%;
+  margin-top: 1%;
+}
+
+.subheadingtitle {
+  padding-left: 20%;
+  padding-top: 2%;
+}
+
+.space-around {
+ margin-top: 1%;
+ margin-right: 20%;
+}
+
+.section-margin {
+  margin-right: 20%;
+}
